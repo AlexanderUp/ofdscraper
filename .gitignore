@@ -1,0 +1,16 @@
+*.pyc
+*.profile
+*.db
+*.sqlite3
+*.txt
+*.log
+*_config.py
+*.json
+__pycache__/*
+myvenv/*
+static/*
+test_folder/*
+output/*
+.DS_Store
+/*.jpg
+/out*.*
